@@ -70,9 +70,9 @@ const Header = () => {
                     )}
                   >
                     <img
-                      src="/images/xora.svg"
-                      width={160}
-                      height={55}
+                      src="/images/logo.png"
+                      width={100}
+                      height={50}
                       alt="logo"
                     />
                   </LinkScroll>
